@@ -24,6 +24,16 @@ A modern, responsive gym website built with React, TypeScript, and Tailwind CSS.
 - **Smooth Animations** - Framer Motion powered transitions
 - **Color Scheme** - Red (#DC2626), Black (#1F2937), White (#FFFFFF)
 - **Professional Photography** - High-quality gym equipment images
+  
+## 📸 ScreenShots
+
+<img width="1455" height="822" alt="Screenshot 2025-07-17 at 12 55 34 PM" src="https://github.com/user-attachments/assets/f19418dc-0b5c-4975-aecf-72de77025f4b" />
+
+<img width="1455" height="822" alt="Screenshot 2025-07-17 at 12 53 36 PM" src="https://github.com/user-attachments/assets/948503be-5aea-47e1-9f47-d4c7a06f6789" />
+
+<img width="1455" height="822" alt="Screenshot 2025-07-17 at 12 53 52 PM" src="https://github.com/user-attachments/assets/6ce52999-ce6e-47de-852d-e64ea2b7d379" />
+
+<img width="1455" height="822" alt="Screenshot 2025-07-17 at 12 54 15 PM" src="https://github.com/user-attachments/assets/4ce45163-acd3-4916-83be-f96e305bc28c" />
 
 ## 🚀 Live Demo
 
