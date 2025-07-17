@@ -95,18 +95,6 @@ src/
 └── index.css          # Global styles
 ```
 
-## 💰 Membership Plans
-
-| Feature | Basic (₹2,299/month) | Pro (₹3,899/month) | Elite (₹6,299/month) |
-|---------|---------------------|-------------------|---------------------|
-| Gym Access | Business Hours | 24/7 | 24/7 |
-| Equipment | Basic | All Premium | All Premium |
-| Group Classes | ❌ | ✅ | ✅ |
-| Personal Training | ❌ | 1/month | 2/month |
-| Guest Passes | ❌ | 2/month | Unlimited |
-| Recovery Room | ❌ | ❌ | ✅ |
-| VIP Services | ❌ | ❌ | ✅ |
-
 ## 🎨 Design System
 
 ### Colors
@@ -204,22 +192,5 @@ The application includes a mock authentication system:
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👨‍💻 Author
-
-**Kris** - *Full Stack Developer*
-
-## 🙏 Acknowledgments
-
-- **Images:** [Pexels](https://pexels.com) for high-quality fitness photography
-- **Icons:** [Lucide React](https://lucide.dev) for beautiful icons
-- **Animations:** [Framer Motion](https://framer.com/motion) for smooth animations
-- **Styling:** [Tailwind CSS](https://tailwindcss.com) for utility-first CSS
-
-## 📞 Support
-
-For support, email support@fitcore.com or join our community Discord.
-
----
 
 **Made with ❤️ by Kris © 2025**
